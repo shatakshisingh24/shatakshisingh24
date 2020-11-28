@@ -1,4 +1,8 @@
-### Hi there 👋
+## Hi there 👋
+
+I am Shatakshi! I am currently pursuing my undergraduation in Computer Science and Engineering. Along with my curriculum technologies I am working on include Machine Learning. You can read my blogs at https://shatakshisingh2k.medium.com/. 
+
+[![Shatakshi's github stats](https://github-readme-stats.vercel.app/api?username=shatakshisingh24&show_icons=true&theme=dark)](https://github.com/shatakshisingh24/github-readme-stats)
 
 <!--
 **shatakshisingh24/shatakshisingh24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
