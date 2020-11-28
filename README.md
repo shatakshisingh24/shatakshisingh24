@@ -41,7 +41,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+#######[![Shatakshi's github stats](https://github-readme-stats.vercel.app/api?username=shatakshisingh24&show_icons=true&theme=dark)](https://github.com/shatakshisingh24/github-readme-stats)
 -->
 
 
-[![Shatakshi's github stats](https://github-readme-stats.vercel.app/api?username=shatakshisingh24&show_icons=true&theme=dark)](https://github.com/shatakshisingh24/github-readme-stats)
+
