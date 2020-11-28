@@ -4,10 +4,6 @@ I am Shatakshi! I am currently pursuing my undergraduation in Computer Science a
 
 Skills: HTML/CSS/C++/PYTHON/JAVA/Machine Learning
 
-[![Shatakshi's github stats](https://github-readme-stats.vercel.app/api?username=shatakshisingh24&show_icons=true&theme=dark)](https://github.com/shatakshisingh24/github-readme-stats)
-
-
-
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/shatakshisingh24)  
 
@@ -46,3 +42,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+[![Shatakshi's github stats](https://github-readme-stats.vercel.app/api?username=shatakshisingh24&show_icons=true&theme=dark)](https://github.com/shatakshisingh24/github-readme-stats)
