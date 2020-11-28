@@ -2,7 +2,7 @@
 
 I am Shatakshi! I am currently pursuing my undergraduation in Computer Science and Engineering. Along with my curriculum technologies I am working on include Machine Learning. You can read my blogs at https://shatakshisingh2k.medium.com/. 
 
-Skills: HTML/CSS/C++/PYTHON/JAVA/Machine Learning
+Skills: HTML/CSS/C++/PYTHON/Machine Learning
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/shatakshisingh24)  
