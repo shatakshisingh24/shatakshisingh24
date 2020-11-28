@@ -11,7 +11,7 @@ Skills: HTML/CSS/C++/PYTHON/Machine Learning
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=shatakshisingh24)](https://github.com/ryo-ma/github-profile-trophy)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=shatakshisingh24&show_icons=true&count_private=true)  
+ ![GitHub stats](https://github-readme-stats.vercel.app/api?username=shatakshisingh24&show_icons=true&count_private=true) 
 
 ![GitHub metrics](https://metrics.lecoq.io/shatakshisingh24)  
 
